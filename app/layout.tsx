@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Coffee, juice, and good company. Coming soon to downtown Edmonton.",
     locale: "en_CA",
     type: "website",
-    images: [{ url: "/images/poppys-interior-main.webp", width: 846, height: 493 }],
+    images: [{ url: "/images/poppys-interior-main.webp", width: 2200, height: 1307 }],
   },
   robots: { index: false, follow: false },
 };
